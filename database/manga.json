@@ -1,0 +1,45 @@
+{
+  "manga_id": "dspr-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": [
+    "Return of the Peerless Dragon Slayer",
+    "용살자의 빼어난 회귀"
+  ],
+  "status": "Ongoing",
+  "author": "Bobeob",
+  "artist": "Siche",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Umat manusia berada di ambang kepunahan akibat serangan Naga Bencana. Eugene, sang Pembunuh Naga terakhir, mengorbankan nyawanya dalam pertarungan final. Namun, alih-alih mati, ia terbangun di masa lalu dengan ingatan utuh dan kekuatan yang terus berkembang. Kini, ia harus memperbaiki kesalahan masa lalu dan mengumpulkan sekutu terkuat untuk mencegah kiamat sebelum semuanya terlambat.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dspr-001-cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kembalinya Sang Pembunuh Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-001/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-001/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kesempatan Kedua",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr-001/ch-002/004.jpg"
+      ]
+    }
+  ]
+}
